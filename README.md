@@ -5,4 +5,4 @@ Yapay zekayı kütüphaneler olmadan, saf matematik ve Python ile çekirdekten k
 **[▶️ Tüm Seriyi İzle (Oynatma Listesi)](https://www.youtube.com/playlist?list=PLWmM3tw4zswbZSZ-O5HDBtoFFN5waxOfH)**
 
 ## 📺 Serideki Videolar
-**[▶️ 01 Raw Neuron](https://youtu.be/o3y6oSgFTw0)**
+**[▶️ 01 Raw Neuron & AI Math](https://youtu.be/o3y6oSgFTw0)**
