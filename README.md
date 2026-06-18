@@ -7,4 +7,5 @@ Yapay zekayı kütüphaneler olmadan, saf matematik ve Python ile çekirdekten k
 ## 📺 Serideki Videolar
 - **[▶️ 01 Raw Neuron & AI Math](https://youtu.be/o3y6oSgFTw0)**
 - **[▶️ 02 Raw Neuron & AI Math - Question and Solution ](https://youtu.be/FCXEzYmeG4w?si=VxSwVHA6UkpFVLyc)**
+- **[▶️ 03 Loss Function ](https://youtu.be/opQGEbYNs2U)**
 
